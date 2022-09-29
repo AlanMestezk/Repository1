@@ -1,0 +1,15 @@
+C:\Users\andre\Downloads\c#\CrS\CrS\bin\Debug\net6.0\CrS.exe
+C:\Users\andre\Downloads\c#\CrS\CrS\bin\Debug\net6.0\CrS.deps.json
+C:\Users\andre\Downloads\c#\CrS\CrS\bin\Debug\net6.0\CrS.runtimeconfig.json
+C:\Users\andre\Downloads\c#\CrS\CrS\bin\Debug\net6.0\CrS.dll
+C:\Users\andre\Downloads\c#\CrS\CrS\bin\Debug\net6.0\CrS.pdb
+C:\Users\andre\Downloads\c#\CrS\CrS\obj\Debug\net6.0\CrS.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\c#\CrS\CrS\obj\Debug\net6.0\CrS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\c#\CrS\CrS\obj\Debug\net6.0\CrS.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\c#\CrS\CrS\obj\Debug\net6.0\CrS.AssemblyInfo.cs
+C:\Users\andre\Downloads\c#\CrS\CrS\obj\Debug\net6.0\CrS.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\c#\CrS\CrS\obj\Debug\net6.0\CrS.dll
+C:\Users\andre\Downloads\c#\CrS\CrS\obj\Debug\net6.0\refint\CrS.dll
+C:\Users\andre\Downloads\c#\CrS\CrS\obj\Debug\net6.0\CrS.pdb
+C:\Users\andre\Downloads\c#\CrS\CrS\obj\Debug\net6.0\CrS.genruntimeconfig.cache
+C:\Users\andre\Downloads\c#\CrS\CrS\obj\Debug\net6.0\ref\CrS.dll
